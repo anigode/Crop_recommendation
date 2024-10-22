@@ -1,4 +1,4 @@
-### Crop Recommendation Project
+# Crop Recommendation Project
 Crop Recommendation This project implements a crop recommendation system using machine learning techniques. The goal is to recommend suitable crops based on various agricultural factors such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, and rainfall. The analysis involves data exploration, preprocessing, model training, and evaluation.
 ## Table of Contents
 -	Introduction
